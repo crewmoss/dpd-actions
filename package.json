@@ -1,12 +1,13 @@
 {
-  "name": "dpd-actions",
+  "name": "dpd-bots",
   "description": "A deployd module that allows to define custom route actions",
   "repository": {
     "type": "git",
-    "url": "http://github.com/chunksnbits/dpd-actions.git"
+    "url": "http://github.com/crewmoss/dpd-actions.git"
   },
   "version": "0.0.3",
   "dependencies": {
+
     "lodash": "^2.4.1",
     "npmlog": "^0.1.1"
   },
